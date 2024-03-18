@@ -1,4 +1,4 @@
-## Olá! Eu sou o Felipe Dutra 🖐️
+## Hi! I´m Felipe Dutra 🖐️
 > Computer Science Student
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dutra-felipe&show_icons=true&theme=dracula&count_private=true)
