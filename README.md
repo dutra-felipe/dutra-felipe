@@ -3,6 +3,11 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dutra-felipe&show_icons=true&theme=dracula&count_private=true)
 
+ <p>:mag_right: I'm looking for my first job opportunity;</p>
+ <p> :star: Love learning new things;</p>
+ <p> :busts_in_silhouette: Great at working in teams;</p>
+ <p> :sunglasses: I'm the missing piece for your company;</p>
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
