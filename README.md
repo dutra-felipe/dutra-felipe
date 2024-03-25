@@ -1,10 +1,6 @@
 ## Hi! I'm Felipe Dutra 🖐️
 > Computer Science Student
 
-- <p>:mag_right: I'm seeking my inaugural job chance;</p>
-- <p> ⚡ Passionate about acquiring programming skills;</p>
-- <p> :busts_in_silhouette: Proficient in collaborative team environments;</p>
-
 ## Technologies 
 
 <div style="display: inline_block">
