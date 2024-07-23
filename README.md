@@ -14,6 +14,8 @@
 
 ## 🌱 I’m currently learning:
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="60"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"  width="60"/>
+          
 
 ## 🎖️ Certificates:
   <img src="https://github.com/dutra-felipe/dutra-felipe/assets/127852691/15ebf263-8aad-4f49-bb5b-b8649b34fe69" width="100"/>
