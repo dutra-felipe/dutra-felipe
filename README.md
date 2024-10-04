@@ -1,19 +1,25 @@
 ## Hi! I'm Felipe Dutra 🖐️
-> Computer Science Student
+> Computer Science Student | 3rd Semester
 
 ## Technologies 
 
-<div style="display: inline_block">
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-</div><br/>
+![C](https://img.shields.io/badge/Language-C-blue)
+![C++](https://img.shields.io/badge/Language-C++-purple)
+![Python](https://img.shields.io/badge/Language-Python-yellow)
+![Django](https://img.shields.io/badge/Framework-Django-green)
+![Java](https://img.shields.io/badge/Language-Java-red)
+![SQL](https://img.shields.io/badge/Language-SQL-blue)
+![HTML](https://img.shields.io/badge/Markup-HTML-red)
+![CSS](https://img.shields.io/badge/Style-CSS-blue)
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
+![Docker](https://img.shields.io/badge/Platform-Docker-blue)
+![Git](https://img.shields.io/badge/Version%20Control-Git-orange)
 
 ## 🌱 I’m currently learning:
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="60"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"  width="60"/>
+- **Machine Learning**
+- **Object Oriented Programming with Java**
+- **Big Data**
+- **Relational Databases**
           
 
 ## 🎖️ Certificates:
@@ -21,11 +27,10 @@
 
 
 ## GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dutra-felipe&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dutra-felipe&hide=jupyter%20notebook&layout=compact)
 
 
 ## 💬 Contact:
     
-  <a href="https://www.instagram.com/dutra_felipe_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipepdutra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div> 
+- [GitHub](https://github.com/dutra-felipe)
+- [LinkedIn](https://www.linkedin.com/in/felipepdutra/)
