@@ -27,10 +27,9 @@
 
 
 ## GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dutra-felipe&hide=jupyter%20notebook&layout=compact)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dutra-felipe&langs_count=8&theme=radical&hide_border=true&title_color=FF5733&icon_color=FFC300&layout=compact&hide=Jupyter%20Notebook)
 
 ## 💬 Contact:
     
-- [GitHub](https://github.com/dutra-felipe)
-- [LinkedIn](https://www.linkedin.com/in/felipepdutra/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipepdutra/)
+- [![Download CV](https://img.shields.io/badge/CV-Download-brightgreen?style=for-the-badge&logo=google-drive&logoColor=white)](./cv-new.pdf)
