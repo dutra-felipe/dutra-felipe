@@ -2,18 +2,18 @@
 > Computer Science Student | 3rd Semester
 
 ## Technologies 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
-![C](https://img.shields.io/badge/Language-C-blue)
-![C++](https://img.shields.io/badge/Language-C++-purple)
-![Python](https://img.shields.io/badge/Language-Python-yellow)
-![Django](https://img.shields.io/badge/Framework-Django-green)
-![Java](https://img.shields.io/badge/Language-Java-red)
-![SQL](https://img.shields.io/badge/Language-SQL-blue)
-![HTML](https://img.shields.io/badge/Markup-HTML-red)
-![CSS](https://img.shields.io/badge/Style-CSS-blue)
-![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
-![Docker](https://img.shields.io/badge/Platform-Docker-blue)
-![Git](https://img.shields.io/badge/Version%20Control-Git-orange)
 
 ## 🌱 I’m currently learning:
 - **Machine Learning**
