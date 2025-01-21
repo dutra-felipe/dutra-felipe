@@ -16,10 +16,10 @@
 
 
 ## 🌱 I’m currently learning:
-- **Machine Learning**
-- **Object Oriented Programming with Java**
-- **Big Data**
-- **Relational Databases**
+- **Computer Architecture**
+- **Computer Network**
+- **Power BI**
+- **Artificial Inteligence**
           
 
 ## 🎖️ Certificates:
