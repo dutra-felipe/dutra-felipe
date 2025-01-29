@@ -1,5 +1,5 @@
 ## Hi! I'm Felipe Dutra 🖐️
-> Computer Science Student | 3rd Semester
+> Computer Science Student | 4th Semester
 
 ## Technologies 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
