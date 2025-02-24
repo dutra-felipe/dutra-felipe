@@ -18,7 +18,7 @@
 ## 🌱 I’m currently learning:
 - **Computer Architecture**
 - **Computer Network**
-- **Power BI**
+- **Image Processing**
 - **Artificial Inteligence**
           
 
