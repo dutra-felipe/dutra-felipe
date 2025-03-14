@@ -20,6 +20,7 @@
 - **Computer Network**
 - **Image Processing**
 - **Artificial Inteligence**
+- **Electronics and Circuits**
           
 
 ## 🎖️ Certificates:
