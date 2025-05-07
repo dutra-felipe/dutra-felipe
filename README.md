@@ -35,6 +35,6 @@
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipepdutra/)
 - [![Download CV](https://img.shields.io/badge/CV-Download-brightgreen?style=for-the-badge&logo=google-drive&logoColor=white)](./cv-new.pdf)
 
-![3D Contributions](https://github.com/dutra-felipe/dutra-felipe/blob/main/profile-3d-contrib/profile-night-green.svg)
+![3D Contributions](https://raw.githubusercontent.com/dutra-felipe/dutra-felipe/main/profile-3d-contrib/profile-night-green.svg)
 
 
