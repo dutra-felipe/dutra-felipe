@@ -2,7 +2,7 @@
 
 # 👋 Hi! I'm **Felipe Dutra**
 
-🎓 *Computer Science Student | 4th Semester*
+🎓 *Computer Science Student | 5th Semester*
 
 ![3D Contributions](./profile-3d-contrib/profile-night-green.svg)
 
