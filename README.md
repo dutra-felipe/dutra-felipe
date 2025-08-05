@@ -22,11 +22,11 @@
 
 ## 🌱 I’m currently learning
 
-- 🖥️ Computer Architecture  
-- 🌐 Computer Network  
-- 🖼️ Image Processing  
-- 🤖 Artificial Intelligence  
-- ⚡ Electronics and Circuits  
+- 🤖 AI 
+- ☁️ AWS 
+- 📱 Mobile  
+- 🖥️ Computing Theory 
+- ⚡ Concurrent Programming  
 
 ---
 
