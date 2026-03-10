@@ -2,7 +2,7 @@
 
 # 👋 Hi! I'm **Felipe Dutra**
 
-🎓 *Computer Science Student | 5th Semester*
+🎓 *Computer Science Student | 6th Semester*
 
 ![3D Contributions](./profile-3d-contrib/profile-night-green.svg)
 
@@ -22,11 +22,11 @@
 
 ## 🌱 I’m currently learning
 
-- 🤖 AI 
-- ☁️ AWS 
-- 📱 Mobile  
-- 🖥️ Computing Theory 
-- ⚡ Concurrent Programming  
+- 🧠 AI
+- ☁️ AWS
+- 💻 Operating Systems
+- 🛡️ Cybersecurity
+- ⚙️ Compiler
 
 ---
 
