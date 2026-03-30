@@ -1,5 +1,3 @@
-<div align="center">
-
 # 👋 Hi! I'm **Felipe Dutra**
 
 🎓 *Computer Science Student | 6th Semester*
@@ -34,10 +32,9 @@
 
 <div align="center">
 
-<img src="https://github.com/dutra-felipe/dutra-felipe/assets/127852691/15ebf263-8aad-4f49-bb5b-b8649b34fe69" width="100"/>
-
-<br>
-<sub>Ethical Hacker - CISCO </sub>
+| <img src="https://github.com/dutra-felipe/dutra-felipe/assets/127852691/15ebf263-8aad-4f49-bb5b-b8649b34fe69" width="120"/> | <img width="120" height="120" alt="aws-certified-cloud-practitioner" src="https://github.com/user-attachments/assets/de19e39b-480f-4613-bfc8-0a288536381c" /> |
+| :---: | :---: |
+| <sub>**Ethical Hacker**</sub><br><sub>Cisco</sub> | <sub>**Cloud Practitioner**</sub><br><sub>AWS</sub> |
 
 </div>
 
