@@ -32,9 +32,9 @@
 
 <div align="center">
 
-| <img src="https://github.com/dutra-felipe/dutra-felipe/assets/127852691/15ebf263-8aad-4f49-bb5b-b8649b34fe69" width="120"/> | <img width="120" height="120" alt="aws-certified-cloud-practitioner" src="https://github.com/user-attachments/assets/de19e39b-480f-4613-bfc8-0a288536381c" /> |
-| :---: | :---: |
-| <sub>**Ethical Hacker**</sub><br><sub>Cisco</sub> | <sub>**Cloud Practitioner**</sub><br><sub>AWS</sub> |
+| <img src="https://github.com/dutra-felipe/dutra-felipe/assets/127852691/15ebf263-8aad-4f49-bb5b-b8649b34fe69" width="120"/> | <img width="120" height="120" alt="aws-certified-cloud-practitioner" src="https://github.com/user-attachments/assets/de19e39b-480f-4613-bfc8-0a288536381c" /> | <img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/ef063d7e-71c5-469f-8804-2e8915bce8ad" />
+| :---: | :---: | :---: |
+| <sub>**Ethical Hacker**</sub><br><sub>Cisco</sub> | <sub>**Cloud Practitioner**</sub><br><sub>AWS</sub> | <sub>**Intro to Cybersecurity**</sub><br><sub>Cisco</sub>
 
 </div>
 
